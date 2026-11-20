@@ -1,0 +1,6 @@
+{
+    "usuarios": ["games","nobody","proxy","syslog","user","ww-data","root","news","postgres","bin","mail","distccd","proftpd","dhcp","daemon","sshd","man","lp","mysql","gnats","libuuid","backup","msfadmin","telnetd","sys","postfix","service","list","irc","ftp","tomcat55","sync","uucp","bind"],
+
+    "senhas": ["123456", "password", "qwerty", "msfadmin"]
+    
+}

@@ -1,0 +1,6 @@
+{
+    "usuarios": ["user", "msfadmin", "admin", "root"],
+
+    "senhas": ["123456", "password", "qwerty", "msfadmin"]
+    
+}
