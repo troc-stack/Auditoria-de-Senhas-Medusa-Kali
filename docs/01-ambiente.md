@@ -53,7 +53,7 @@ O Metasploitable 2 foi utilizado como a máquina-alvo dos ataques, uma vez que e
 - Arquitetura: i686 (32 bits)
 - Processadores: 1
 
-![Configurações da VM Metasploitable 2](..\imagens\Configuracoes-da-VM-Kali-Linux.png)
+![Configurações da VM Metasploitable 2](../imagens/Configuracoes-da-VM-Kali-Linux.png)
 
 **Observações de configuração:**
 
@@ -64,7 +64,7 @@ Para garantir o funcionamento adequado da máquina virtual, foram utilizadas as 
 - Interface de paravirtualização: KVM
 - Paginação aninhada (Nested Paging): Habilitada
 
-![Configurações da VM Metasploitable 2](..\imagens\Captura-de-tela-2026-11-19-190652.png)
+![Configurações da VM Metasploitable 2](../imagens/Captura-de-tela-2026-11-19-190652.png)
 
-![Configurações da VM Metasploitable 2](..\imagens\Captura-de-tela-2026-11-19-190740.png)
+![Configurações da VM Metasploitable 2](../imagens/Captura-de-tela-2026-11-19-190740.png)
 
